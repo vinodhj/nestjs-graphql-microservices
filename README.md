@@ -1,4 +1,4 @@
-# NestJS GraphQL API + gRPC microservices
+# NestJS GraphQL API + gRPC Microservices
 
 This project is a [monorepo](https://gomonorepo.org/) containing a [GraphQL](https://graphql.org/) API with [gRPC](https://grpc.io/) back-end microservices built using the [NestJS framework](https://nestjs.com/). This project is mainly used for learning/trial and boilerplate purposes only.
 
